@@ -1,4 +1,8 @@
 New motivatio
 
+<<<<<<< HEAD
 
 NEW This is in master
+=======
+This is a new line
+>>>>>>> motivation
