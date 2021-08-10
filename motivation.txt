@@ -6,3 +6,6 @@ NEW This is in master
 =======
 This is a new line
 >>>>>>> motivation
+
+
+Master This line is added in master
