@@ -13,3 +13,6 @@ Master This line is added in master
 =======
 personal branch This line is from personal branch
 >>>>>>> personal
+
+
+Another new line is added
