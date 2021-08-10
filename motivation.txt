@@ -6,3 +6,6 @@ NEW This is in master
 =======
 This is a new line
 >>>>>>> motivation
+
+
+personal branch This line is from personal branch
